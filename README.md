@@ -18,29 +18,21 @@
 ### Languages
 
 * Python
-* JavaScript
-* HTML
-* CSS
-* SQL
 
 ### Frameworks & Libraries
 
-* Django
-* Django REST Framework
-* React
-* Vite
-* Streamlit
 * Pandas
 * NumPy
+* Seaborn
 * Matplotlib
 * Scikit-learn
 * OpenCV
 * MediaPipe
 
+
 ### Databases
 
 * PostgreSQL
-* SQLite
 
 ### Tools
 
@@ -48,10 +40,8 @@
 * GitHub
 * VS Code
 * Jupyter Notebook
-* Postman
 * Vercel
 * Render
-* Neon Database
 
 ---
 
