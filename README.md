@@ -41,7 +41,7 @@ class Hamza:
 
 **Core stack**
 
-<img src="https://skillicons.dev/icons?i=python,django,react,vite,ts,postgres,supabase,git,github,vscode,vercel&theme=dark" alt="Core tech stack icons"/>
+<img src="https://skillicons.dev/icons?i=python,supabase,git,github,vscode,vercel&theme=dark" alt="Core tech stack icons"/>
 
 **Data Science & Machine Learning**
 
